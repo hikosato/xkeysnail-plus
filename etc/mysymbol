@@ -1,0 +1,5 @@
+// メニューキーを無効にする
+partial modifier_keys
+xkb_symbols "no_menu" {
+    key <COMP> { [ NoSymbol ] };
+};

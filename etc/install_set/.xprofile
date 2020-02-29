@@ -1,0 +1,4 @@
+if [ -x /usr/local/bin/xkeysnail-plus ]; then
+	xhost +si:localuser:xkeysnail
+	sudo -u xkeysnail DISPLAY=$DISPLAY /usr/local/bin/xkeysnail-plus $HOME/.xkeysnail/config.py &
+fi

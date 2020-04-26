@@ -31,4 +31,4 @@ AutoHotkeyのようにxkeysnailでもできればいいのにというのが動�
 
     
 ## 使い方
-[[無変換キーなどを修飾キー化] Ubuntuのキー配列・キーバインドをやりたい放題自分好みに変更する。](https://itwatch.cloud/change-the-ubuntu-keyboard-layout-and-key-bindings)
+[[無変換キーなどを修飾キー化] Ubuntuのキー配列・キーバインドをやりたい放題自分好みに変更する。](https://it-watch.com/ubuntu/change-the-ubuntu-keyboard-layout-and-key-bindings)
